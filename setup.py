@@ -13,7 +13,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 setup(
 	name='combine2xlsx',
 	packages=['combine2xlsx'],
-	version='0.1.8',
+	version='0.1.9',
 	install_requires=['xlrd', 'xlsxwriter'],
 	description='Combine multi excel files into one large xlsx',
 	long_description=long_description,

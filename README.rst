@@ -38,4 +38,9 @@ Example:
 Contibuting
 -----------
 
-1. Folk the repository at 
+1. Folk the `repository <https://github.com/ChenZhongPu/combine2xlsx>`_ on GitHub.
+2. Make a branch off of master and commit your changes to it.
+3. Submit a Pull Request to the master branch on GitHub.
+
+If you'd like to have a development environment for combine2xlsx, you should create a
+virtualenv and then do ``pip install -e .`` from within the directory.
